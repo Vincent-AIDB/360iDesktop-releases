@@ -6,4 +6,4 @@ electron-updater reads for a private repo - picks the newest by created_at. When
 tag points at the same commit, every release ties and "latest" stops tracking the newest
 release. Touch this file before cutting a release.
 
-last release: 1.2.15
+last release: 1.2.16

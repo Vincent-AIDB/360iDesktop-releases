@@ -8,3 +8,4 @@ release. Touch this file before cutting a release.
 
 last release: 1.2.17
 - v1.2.18 — 2026-09-04 04:17:35Z
+- v1.2.19 — 2026-09-04 08:45:57Z

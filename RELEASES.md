@@ -7,3 +7,4 @@ tag points at the same commit, every release ties and "latest" stops tracking th
 release. Touch this file before cutting a release.
 
 last release: 1.2.17
+- v1.2.18 — 2026-09-04 04:17:35Z
